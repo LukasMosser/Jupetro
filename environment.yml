@@ -1,7 +1,6 @@
-name: jupetro-environment
-
 dependencies:
-  - python=2.7
-  - numpy
-  - scipy
-  - matplotlib
+- python=1.7.10
+- numpy
+- matplotlib
+- scipy
+- jupyter
